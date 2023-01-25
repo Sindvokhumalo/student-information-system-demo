@@ -1,0 +1,60 @@
+.header-tops,body{font-family:Montserrat,sans-serif}
+
+.header-tops{
+    width:100%;
+    display:flex;
+    position:sticky;
+}
+
+body
+{
+    color:#0c1c47
+}
+#btnHome{
+    background-color:#0c1c47;
+    border:2px solid #0c1c47;
+    border-radius:15px;
+    margin:25px;
+    font-size:20px
+}
+.text-input{
+    width:95%;
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:8px;
+    border:2px solid #0c1c47;
+    border-radius:50px;
+    text-align:center;
+    color:#0c1c47;
+    font-size:17px;
+    display:initial
+}
+#select-faculty{
+    text-align:center;
+    color:#0c1c47;
+    height:31px
+}
+.section-radBtn{
+    display:flex;
+    font-size:17px;
+    margin:20px
+}
+.form-check{
+    margin-left:10px;
+    padding-left:20px
+}
+.section-btns{
+    margin:20px;
+    text-align:center
+}
+#btnSave{
+    background:#0a7815;
+    border:2px solid #0a7815;
+    border-radius:20px
+}
+#btnClear{
+    background:#d90b0b;
+    border:2px solid #d90b0b;
+    border-radius:20px;
+    margin-left:10px
+}
